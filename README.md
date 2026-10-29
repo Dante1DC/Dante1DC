@@ -4,7 +4,7 @@
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dante1DC&layout=compact">](https://github.com/Dante1DC/github-readme-stats#gh-light-mode-only)
 
 **I'm Dante Dyches-Chandler**
-- Data Scientist @ [Reach](www.reachtestprep.org)
+- Data Scientist @ [Reach](https://reachtestprep.org)
 - Graduated from UNL
 - https://dantedc.dev
   
